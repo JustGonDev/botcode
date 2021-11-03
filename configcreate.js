@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 var stripBom = require("strip-bom");
 var originalconfig = {
-    botname: "JABD",
+    botname: "Con Cu",
     prefix: "/"
 }
 function getCF(){
